@@ -1,2 +1,3 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual estarán disponibles mis practicas
+Este repositorio es propiedad de: Brenda Adilene Correa Antuna
+En este Repositorio están disponibles mis prácticas de la segunda unidad realizadas en PHP.
